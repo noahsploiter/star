@@ -13,7 +13,7 @@ function Section_3() {
             <h1 className='text-center text-4xl font-bold underline'>Contact Us</h1>
             <div className='flex justify-around mt-[50px]'>
                 <div>
-                <h3 className='w-[400px] text-xl'>If you have any questions Please leave us a message or contact us through the following address</h3>
+                <h3 className='w-[200px] md:w-[400px] text-xl'>If you have any questions Please leave us a message or contact us through the following address</h3>
                 <h3 className='mt-5 font-bold'>PHONE</h3>
                 <h3 className='mt-3'>+25109090909</h3>
                 <h3 className='mt-5 font-bold'>EMAIL</h3>
