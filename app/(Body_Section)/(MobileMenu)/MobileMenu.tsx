@@ -82,7 +82,7 @@ function MobileMenu() {
         className=" w-full min-h-[50px] rounded-[10px] border
              hover:border-sky-500  border-[#7042f861] mt-[15px] flex flex-row  items-center font-semibold justify-center  "
       >
-        Project
+        Gallery
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className="h-5 w-5 ml-[10px]"
