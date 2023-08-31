@@ -22,9 +22,6 @@ function Section_4() {
                 <Image className='rounded-xl' src={i1} width={400} height={400} alt=''/>
                 <Image className='rounded-xl' src={i2} width={400} height={400} alt=''/>
                 <Image className='rounded-xl' src={i3} width={400} height={400} alt=''/>
-                <Image className='rounded-xl' src={i4} width={400} height={400} alt=''/>
-                <Image className='rounded-xl' src={i5} width={400} height={400} alt=''/>
-                <Image className='rounded-xl' src={i6} width={400} height={400} alt=''/>
             </div>
         </div>
     </div>
