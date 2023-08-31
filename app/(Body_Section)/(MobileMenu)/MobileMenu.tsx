@@ -29,7 +29,7 @@ function MobileMenu() {
           <span className=" text-[17px]">Back</span>
         </div>
         <Image
-          src={"/glaxy.png"}
+          src={"/logo.png"}
           width={40}
           height={40}
           alt="Noahsploit"
