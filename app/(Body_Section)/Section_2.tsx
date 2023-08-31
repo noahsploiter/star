@@ -48,13 +48,13 @@ function Section_2() {
           Start learing Now!
         </a> */}
       </div>
-      <div className=" w-[50%] h-full hidden 1140:flex flex-row items-center  select-none justify-between ml-10 rounded-2xl">
+      <div className=" w-[50%] h-full hidden 1140:flex flex-row items-center  select-none justify-between ml-10">
         <Image
           src="/3.jpg"
           width={708}
           height={740}
           alt=""
-          className="   flex animate-slideright2  transition_"
+          className=" rounded-2xl  flex animate-slideright2  transition_"
         />
       </div>
     </div>
