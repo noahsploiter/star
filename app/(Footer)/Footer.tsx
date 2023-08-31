@@ -134,7 +134,7 @@ function Footer() {
         </div>
 
         <div className="mb-[20px] text-[15px] text-center  ">
-          &copy; Noahsploit 2023 Inc. All rights reserved.
+          &copy; Star Academy 2023 Inc. All rights reserved.
         </div>
       </div>
     </div>

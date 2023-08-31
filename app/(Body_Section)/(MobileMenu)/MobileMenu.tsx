@@ -68,10 +68,10 @@ function MobileMenu() {
         <div className="w-full h-auto hover:bg-[#221d41] rounded-[8px] flex flex-row py-[13px] px-[5px] 600:px-[15px] ">
           <div className=" flex flex-col">
             <span className=" font-bold text-gray-200 text-[16px] hover:underline ">
-              Next js 13 Course Comming Soon..
+              Online course Comming Soon..
             </span>
             <p className=" mt-[5px] text-[14px] text-gray-300 ">
-              An interactive course to learn Next js 13 + Type Script in a fun
+              An interactive course to learn all subjects in a fun
               and easy way
             </p>
           </div>
