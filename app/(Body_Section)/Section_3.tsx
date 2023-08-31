@@ -8,7 +8,7 @@ import photo from '../../public/2.jpg'
 
 function Section_3() {
   return (
-  <div className="text-white mt-[700px] md:mt-[-100px]">
+  <div className="text-white">
     <div>
             <h1 className='text-center text-4xl font-bold underline'>Contact Us</h1>
             <div className='flex justify-around mt-[50px]'>
