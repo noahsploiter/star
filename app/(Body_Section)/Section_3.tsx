@@ -8,30 +8,31 @@ import photo from '../../public/2.jpg'
 
 function Section_3() {
   return (
-  <div className="text-white mt-[700px] ">
+  <div className="text-white mt-[700px] md:mt-[-100px]">
     <div>
-            <h1 className='text-4xl font-bold text-center pt-10 underline'>About</h1>
-        </div>
-        <div className='flex justify-around mt-[70px]'
-        >
-            <div className='space-y-3'>
-                <Image className='rounded-xl' src={photo} width={400} height={400} alt=''/>
-                <Image className='rounded-xl' src={photo} width={400} height={400} alt=''/>
+            <h1 className='text-center text-4xl font-bold underline'>Contact Us</h1>
+            <div className='flex justify-around mt-[50px]'>
+                <div>
+                <h3 className='w-[400px] text-xl'>If you have any questions Please leave us a message or contact us through the following address</h3>
+                <h3 className='mt-5 font-bold'>PHONE</h3>
+                <h3 className='mt-3'>+25109090909</h3>
+                <h3 className='mt-5 font-bold'>EMAIL</h3>
+                <h3 className='mt-3'>info@starschool.com</h3>
+                <h3 className='mt-3'>contact@starschoolet.com</h3>
+                </div>
+                <div>
+                    <form action="">
+                        <h1 className='text-3xl'>Leave a message</h1>
+                        <div className='flex text-black  flex-col space-y-5 mt-10'>
+                        <input className='w-[300px] outline-none pl-5 h-[40px] rounded-xl' type="text" placeholder='Name'/>
+                        <input className='w-[300px] outline-none h-[40px] rounded-xl pl-5' type="text" placeholder='Email'/>
+                        <textarea className='pl-5 outline-none' placeholder='Message' name="" id="" cols="30" rows="6"></textarea>
+                        <button className='border border-white w-[150px] h-[40px] rounded-md text-white hover:bg-slate-500'>Send Message</button>
+                        </div>
+                    </form>
+                </div>
             </div>
-            <div className=''>
-                <h1 className='mt-10 text-4xl font-bold underline'>VISION</h1>
-                <p className='text-xl mt-5 font-semibold w-[400px]'>
-                Our vision is to be a premier national educational institution which cultivates all round development of qualities in a student through excellence in education
-                </p>
-                <h2 className='text-2xl mt-10 font-semibold underline'>LETS HELP YOU CHANGE YOUR CHILDS LIFE</h2>
-                <p className='w-[400px] mt-3 text-xl'>
-                Star academic program challenges and inspires students to discover their passion and realize their potential.
-                Our teachers are highly professional, caring,  collaborative, focused, and dedicated.
-                </p>
-            </div>
-        </div>
-        
-        
+        </div>   
   </div>
   );
 }
