@@ -23,7 +23,7 @@ function Section_3() {
                 <p className='text-xl mt-5 font-semibold w-[400px]'>
                 Our vision is to be a premier national educational institution which cultivates all round development of qualities in a student through excellence in education
                 </p>
-                <h2 className='text-2xl mt-10 font-semibold underline'>LET'S HELP YOU CHANGE YOUR CHILD'S LIFE</h2>
+                <h2 className='text-2xl mt-10 font-semibold underline'>LETS HELP YOU CHANGE YOUR CHILDS LIFE</h2>
                 <p className='w-[400px] mt-3 text-xl'>
                 Star academic program challenges and inspires students to discover their passion and realize their potential.
                 Our teachers are highly professional, caring,  collaborative, focused, and dedicated.
