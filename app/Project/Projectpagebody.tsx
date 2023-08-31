@@ -26,12 +26,12 @@ function Projectpagebody() {
   
 
   return (
-    <div>
+    <div className="text-white">
       <h1>LETS HELP YOU CHANGE YOUR CHILDS LIFE</h1>
       <div>
       <div>
             <h1 className='text-4xl font-bold text-center mt-10 underline'>Start your future with us</h1>
-            <div className='flex flex-wrap space-y-5 mt-10 cursor-pointer'>
+            <div className='flex flex-wrap space-x-4 items-center space-y-5 mt-10 cursor-pointer'>
                 <Image className='rounded-xl' src={i1} width={400} height={400} alt=''/>
                 <Image className='rounded-xl' src={i2} width={400} height={400} alt=''/>
                 <Image className='rounded-xl' src={i3} width={400} height={400} alt=''/>
