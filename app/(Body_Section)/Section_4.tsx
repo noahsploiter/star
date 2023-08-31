@@ -18,7 +18,7 @@ function Section_4() {
     <div className="text-white mt-[-100]">
       <div>
             <h1 className='text-4xl font-bold text-center mt-10 underline'>Start your future with us</h1>
-            <div className='flex flex-wrap space-x-4 space-y-5 mt-10 cursor-pointer'>
+            <div className='flex justify-center flex-wrap space-x-4 space-y-5 mt-10 cursor-pointer'>
                 <Image className='rounded-xl' src={i1} width={400} height={400} alt=''/>
                 <Image className='rounded-xl' src={i2} width={400} height={400} alt=''/>
                 <Image className='rounded-xl' src={i3} width={400} height={400} alt=''/>
