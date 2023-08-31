@@ -8,7 +8,7 @@ import photo from '../../public/2.jpg'
 
 function Section_3() {
   return (
-  <div className="text-white">
+  <div className="text-white mt-[500px]">
     <div>
             <h1 className='text-4xl font-bold text-center pt-10 underline'>About</h1>
         </div>
