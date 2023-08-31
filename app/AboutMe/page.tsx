@@ -93,7 +93,7 @@ function page() {
         >
           Go Back To
           <span className=" text-sky-500 ml-[5px] cursor-pointer  hover:underline  ">
-            Projects
+            Gallery
           </span>
         </Link>
       </div>

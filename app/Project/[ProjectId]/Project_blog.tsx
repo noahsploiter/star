@@ -169,7 +169,7 @@ function Project_blog({ Single_data }: Props) {
       >
         Go Back To
         <span className=" text-sky-500 ml-[5px] cursor-pointer  hover:underline  ">
-          Projects
+        Gallery
         </span>
       </Link>
       <div className="w-full h-auto pb-[100px] "></div>
